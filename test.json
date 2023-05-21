@@ -1,0 +1,17 @@
+[
+  {
+    "id" : 1,
+    "name" : "name1",
+    "isTrue" :true
+  },
+  {
+    "id" : 2,
+    "name" : "name2",
+    "isTrue" :true
+  },
+  {
+    "id" : 3,
+    "name" : "name3",
+    "isTrue" :false
+  },
+]
